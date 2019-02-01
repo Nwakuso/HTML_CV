@@ -7,12 +7,12 @@
 <style>
 h1 {
   font-family: verdana;
-  font-size: 200%;
+  font-size: 150%;
 
 }
 p  {
   font-family: Arial;
-  font-size: 150%;
+  font-size: 100%;
 <body>
 </style>
 
