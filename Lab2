@@ -4,7 +4,17 @@
     <meta charset="UTF-8">
     <title>NWAKUSO WINIFRED ONWUKA CV</title>
 </head>
+<style>
+h1 {
+  font-family: verdana;
+  font-size: 300%;
+
+}
+p  {
+  font-family: courier;
+  font-size: 160%;
 <body>
+</style>
 
 <header>
     <h1><b>NWAKUSO WINIFRED ONWUKA - CV<b></h>
