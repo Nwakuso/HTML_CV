@@ -27,8 +27,13 @@ p  {
     </section>
     
     <section>
-       <h2>Skills</h2>
+       <h2>Skills and Proficiency</h2>
     </section>
+    <ul> 
+    <li>Programming Languages: c++ </li>
+    <li>Networking</li>
+    <li>Hardware</li>
+    </ul>
     
     <section>
        <h2>Work History</h2>
