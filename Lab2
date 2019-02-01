@@ -7,7 +7,7 @@
 <style>
 h1 {
   font-family: verdana;
-  font-size: 300%;
+  font-size: 200%;
 
 }
 p  {
@@ -40,7 +40,7 @@ p  {
     </section>
     
     <section>
-    <h5>Academic Information</h5>
+    <h2>Academic Information</h2>
         <ol>
         <li>MSc in IT for the Oil and gas Industry</li>
         <li>PGCert Software Engineering</li>
@@ -48,11 +48,11 @@ p  {
         </ol> 
     
     <section>
-    <h6>Work History</h6>
+    <h2>Work History</h2>
     </section>
     
     <section>
-    <h5>Affiliations/Interest</h5>
+    <h2>Affiliations/Interest</h2>
     </section>
     
 </main>
