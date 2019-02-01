@@ -16,21 +16,28 @@
     </section>
     
     <section>
-    <h4>Work History</h4>
+    <h3>Work History</h3>
     </section>
     
     <section>
-    <h3>Educational Information - (Institution attended with Dates)</h3>
+    <h4>Educational Information - (Institution attended with Dates)</h4>
         <ul>
         <li>Robert Gordon University,Aberdeen -Ongoing</li>
         <li>University of Westminster,London -2008</li>
         <li>University of Benin, Benin City - 2004</li>
         </ul>  
-
     </section>
     
     <section>
-    <h4>Work History</h4>
+    <h5>Academic Information</h5>
+        <ol>
+        <li>MSc in IT for the Oil and gas Industry</li>
+        <li>PGCert Software Engineering</li>
+        <li>BSc Computer Science</li>
+        </ol> 
+    
+    <section>
+    <h6>Work History</h6>
     </section>
     
     <section>
