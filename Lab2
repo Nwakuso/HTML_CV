@@ -17,15 +17,15 @@
 
 <main>
     <section>
-    <h2><b>Personal Information<b></h2>
+       <h2><b>Personal Information<b></h2>
     </section>
     
     <section>
-    <h3>Work History</h3>
+       <h2>Work History</h2>
     </section>
     
     <section>
-    <h4>Educational Information - (Institution attended with Dates)</h4>
+       <h2>Educational Information - (Institution attended with Dates)</h2>
         <ul>
         <li>Robert Gordon University,Aberdeen -Ongoing</li>
         <li>University of Westminster,London -2008</li>
