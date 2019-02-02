@@ -51,16 +51,16 @@ em {
     <section>
        <h2>Educational Information - (Institution attended with Dates)</h2>
        <ul>
-        <l1><div>Robert Gordon University,Aberdeen -Ongoing</div>
+        <li><div>Robert Gordon University,Aberdeen -Ongoing</div>
         <div>MSc in IT for the Oil and gas Industry</div></li>
         
-        <li><div>i>University of Westminster,London - 2008</div>
+        <li><div>University of Westminster,London - 2008</div>
         <div>>PGCert Software Engineering</div></li>
         
-        <li>University of Benin, Benin City - 2004</li>
+        <li><div>University of Benin, Benin City - 2004</div>
         <div>BSc Computer Science</div></li>
         
-        <li>Our Lady of Apostles, Sec.Sch., Lagos - 1998</li>
+        <li>Our Lady of Apostles, Sec.Sch., Lagos - 1998</div>
         <div>O Levels</div></li>
         </ul>  
     </section>
