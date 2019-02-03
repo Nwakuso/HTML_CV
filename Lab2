@@ -32,16 +32,22 @@ em {
             </h1>
    </header>
 
-<main>
-    <section>
-       <h2>Personal Information</h2>
-    </section>
-    <p>I am an IT Professional, with nearly 8years experience as a team player in delivering complex projects with tight schedules and cross functional resources to optimize enterprise technology and IT operations. Committed to quality and service excellence. Possess excellent aptitude for new technologies and operations and can adapt quickly to new environments, conventions and challenges including client and vendor relationship, policies and procedures, business processes and SLAs. I have over 3 years experience in ICT Consultancy, can work independently or as part of a team. I am uncompetitive and open to new ideas and opinions, can work under pressure and maintain my composure whilst at it. I love to apply a positive attitude to every task I undertake irrespective of the circumstance.
+  <main>
+            <section id="profile">
+                <em>
+                    Orchestrating Technology, Change management initiatives to drive cost savings and ROI while expanding infrastructure capacity and performance
+                </em>
+                <h2>Profile</h2>
 
-</p>
-    
-    <section>
-       <h2>Skills and Proficiency</h2>
+                I am an IT Professional, with nearly 8years experience as a team player in delivering complex projects with tight schedules and cross functional resources to optimize
+                enterprise technology and IT operations. Committed to quality and service excellence. Possess excellent aptitude for new technologies and operations and can adapt quickly
+                to new environments, conventions and challenges including client and vendor relationship, policies and procedures, business processes and SLAs. I have over 3 years experience
+                in ICT Consultancy, can work independently or as part of a team. I am uncompetitive and open to new ideas and opinions, can work under pressure and maintain my composure whilst at it.
+                I love to apply a positive attitude to every task I undertake irrespective of the circumstance.
+
+            </section>
+            
+ 
     </section>
     <ul> 
     <li>Programming Languages: c++ </li>
