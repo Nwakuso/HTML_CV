@@ -57,40 +57,38 @@
           to new environments, conventions and challenges including client and vendor relationship, policies and procedures, business processes and SLAs. I have over 3 years experience
           in ICT Consultancy, can work independently or as part of a team. I am uncompetitive and open to new ideas and opinions, can work under pressure and maintain my composure whilst at it.
           I love to apply a positive attitude to every task I undertake irrespective of the circumstance.
-
       </section>
             
-            <section id="skills">
-                <h2>Skills</h2>
-                <hr>
-                <ul>
-                    <li><strong>Languages:</strong> Java, C++, XML, SQL, JavaScript, HTML, CSS, Python
-                        <progress value="70" max="100" title="70% of 100%">70% of 100%</progress>
-                    </li>
-                    <li>
-                    <strong>Frameworks:</strong> J2EE, Servlets, JSP, Spring, Hibernate, JDBC, RMI, JUnit
-                        <progress value="80" max="100" title="80% of 100%">80% of 100%</progress>
-                    </li>
-                    <li>
-                    <strong>Concepts:</strong> OOA, OOD, UML, Patterns, Networking
-                        <progress value="90" max="100" title="90% of 100%">90% of 100%</progress>
-                    </li>
-                    <li>
-                    <strong>Software:</strong> Weblogic, JBoss, TomCat, Apache, Oracle, MySQL, ArcGIS, VCQI, Stata
-                        <progress value="70" max="100" title="70% of 100%">70% of 100%</progress>
-                    </li>
-                    <li>
-                    <strong>Systems:</strong> Linux, Solaris, Unix, Windows
-                        <progress value="50" max="100" title="50% of 100%">50% of 100%</progress>
-                    </li>
+      <section id="skills">
+         <h2>Skills</h2>
+         <hr>
+         <ul>
+             <li><strong>Languages:</strong> Java, C++, XML, SQL, JavaScript, HTML, CSS, Python
+                 <progress value="70" max="100" title="70% of 100%">70% of 100%</progress>
+             </li>
+             <li>
+             <strong>Frameworks:</strong> J2EE, Servlets, JSP, Spring, Hibernate, JDBC, RMI, JUnit
+                 <progress value="80" max="100" title="80% of 100%">80% of 100%</progress>
+             </li>
+             <li>
+             <strong>Concepts:</strong> OOA, OOD, UML, Patterns, Networking
+                 <progress value="90" max="100" title="90% of 100%">90% of 100%</progress>
+             </li>
+             <li>
+             <strong>Software:</strong> Weblogic, JBoss, TomCat, Apache, Oracle, MySQL, ArcGIS, VCQI, Stata
+                 <progress value="70" max="100" title="70% of 100%">70% of 100%</progress>
+             </li>
+             <li>
+             <strong>Systems:</strong> Linux, Solaris, Unix, Windows
+                 <progress value="50" max="100" title="50% of 100%">50% of 100%</progress>
+             </li>
 
-                    <h3>Other areas</h3>
-                    Project Management, Training and Mentoring, Team Leadership, Performance, Capacity Management,		Data Integration
-                    Management, Data Management, Business Intelligence,	Business Analytics, Requirement Analysis,
-                    Strategic Planning,	Information Systems Auditing
+             <h3>Other areas</h3>
+             Project Management, Training and Mentoring, Team Leadership, Performance, Capacity Management,		Data Integration
+             Management, Data Management, Business Intelligence,	Business Analytics, Requirement Analysis,
+             Strategic Planning,	Information Systems Auditing
 
-
-            </section>
+      </section>
              <section>
                 <h2>Experience</h2>
                 <hr>
