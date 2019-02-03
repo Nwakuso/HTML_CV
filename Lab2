@@ -251,40 +251,4 @@
         <footer>
 
         </footer>
-    </body>
-
-</html>
-
-    <ul> 
-    <li>Programming Languages: c++ </li>
-    <li>Networking</li>
-    <li>Hardware</li>
-    </ul>
-    
-    <section>
-       <h2>Work History</h2>
-        <p>National Primary Health Care Development Agency</p>
-        <p>March 2013 - January 2019<p>
-        <p>My roles in this office includes</p>
-    </section>
-        
-    
-    <section>
-       <h2>Educational Information</h2>
-       <ul>
-        <li><div>Robert Gordon University,Aberdeen - Ongoing</div>
-        <div>MSc in IT for the Oil and gas Industry</div></li>
-        
-        <li><div>University of Westminster,London - 2008</div>
-        <div>PGCert Software Engineering</div></li>
-        
-        <li><div>University of Benin, Benin City - 2004</div>
-        <div>BSc Computer Science</div></li>
-        
-        <li><div>Our Lady of Apostles, Sec.Sch., Lagos - 1998</div>
-        <div>O Levels</div></li>
-        </ul>  
-    </section>
-    
    
-  
