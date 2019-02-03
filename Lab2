@@ -1,51 +1,64 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>NWAKUSO WINIFRED ONWUKA CV</title>
+   <title>Nwakwuso Winifred Onwuka - CV</title>
+   <style>
+       body{
+           margin:0px 0px 0px 0px;
+
+       }
+       header
+       {
+
+           font-family: segoe ui;
+           color:white;
+           background-color:#666666;
+           padding:1 2 5 20;
+        }
+
+        .header_sub_title
+        {
+           font-weight:normal;
+           font-size:20px;
+        }
+
+        main
+        {
+           margin:20px ;
+
+        }
+
+        p.subitems
+        {
+          margin-top:8px;
+        }
+
+   </style>
 </head>
-<style>
-h1 {
-  font-family: Arial;
-  font-size: 150%;
-  text-align: center
-}
-p  {
-  font-family: Arial;
-  font-size: 100%;
-<body>
-em { 
-  font-style: italic;
-}
-
-</style>
-
-</head>
-
 <body>
 
    <header id="cv_name">
-            <h1>
-                Nwakuso Winifred Onwuka<br/>
-                <span class="header_sub_title">IT Project Manager</span>
+       <h1>
+           Nwakuso Winifred Onwuka<br/>
+           <span class="header_sub_title">IT Project Manager</span>
 
-            </h1>
+       </h1>
    </header>
 
   <main>
-            <section id="profile">
-                <em>
-                    Orchestrating Technology, Change management initiatives to drive cost savings and ROI while expanding infrastructure capacity and performance
-                </em>
-                <h2>Profile</h2>
+       <section id="profile">
+          <em>
+             Orchestrating Technology, Change management initiatives to drive cost savings and ROI while expanding infrastructure capacity and performance
+          </em>
+          <h2>Profile</h2>
 
-                I am an IT Professional, with nearly 8years experience as a team player in delivering complex projects with tight schedules and cross functional resources to optimize
-                enterprise technology and IT operations. Committed to quality and service excellence. Possess excellent aptitude for new technologies and operations and can adapt quickly
-                to new environments, conventions and challenges including client and vendor relationship, policies and procedures, business processes and SLAs. I have over 3 years experience
-                in ICT Consultancy, can work independently or as part of a team. I am uncompetitive and open to new ideas and opinions, can work under pressure and maintain my composure whilst at it.
-                I love to apply a positive attitude to every task I undertake irrespective of the circumstance.
+          I am an IT Professional, with nearly 8years experience as a team player in delivering complex projects with tight schedules and cross functional resources to optimize
+          enterprise technology and IT operations. Committed to quality and service excellence. Possess excellent aptitude for new technologies and operations and can adapt quickly
+          to new environments, conventions and challenges including client and vendor relationship, policies and procedures, business processes and SLAs. I have over 3 years experience
+          in ICT Consultancy, can work independently or as part of a team. I am uncompetitive and open to new ideas and opinions, can work under pressure and maintain my composure whilst at it.
+          I love to apply a positive attitude to every task I undertake irrespective of the circumstance.
 
-            </section>
+      </section>
             
             <section id="skills">
                 <h2>Skills</h2>
@@ -78,10 +91,172 @@ em {
 
 
             </section>
-            
-            
- 
-    </section>
+             <section>
+                <h2>Experience</h2>
+                <hr>
+                <ol>
+                    <li>
+                        <strong>ROBERT GORDON UNIVERSITY</strong><br/>
+                        <em>MSc Oil and Gas Industry (Jan 2019 till Jun 2020)</em>
+                        <p class="subitems">
+                            This course will prepare me for a career in the design and implementation of IT Solutions and service management
+                            tailored to meet the needs of the oil and gas industry. It consists of a blend of modules in the IT field and the Oil
+                            and Gas sector. The modules include : Oil and Gas Engineering, Data visualization, Object Oriented Programming, Intranet Systems,
+                            Geosciences, IT Infrastructure and Service Management, Data Management including Project work(thesis).
+                        </p>
+
+                    </li><br/>
+                    <li>
+                        <strong>NATIONAL PRIMARY HEALTH CARE DEVELOPMENT AGENCY, ABUJA </strong><br/>
+                        <em>Head ICT (Dec 2014 till Date)</em>
+                        <p class="subitems">
+                            Strategic as well as overall operational responsibility for the team (8 member team). Guarantee the provision of IT infrastructure
+                            at headquarters, annex, remote sites and 6 geopolitical zones in the country which complies with the agreement with the outsourced
+                            partner.  Ascertain voice and data communication systems are in line with service levels Contract negotiations with IT suppliers.
+                            Further development of IT to comply with the mandate of the Agency
+                        </p>
+                    </li><br/>
+                    <li>
+                        <strong>NATIONAL PRIMARY HEALTH CARE DEVELOPMENT AGENCY, ABUJA </strong><br/>
+                        <em>ICT Consultant (Mar 2013 till Dec 2014)</em>
+                        <p class="subitems">
+                            Working on some projects which include: IPSP/NPHCDA Pilot (MAMA Connector, sponsored by United Kingdom Space Agency), NSHIP PBF Project
+                            (Sponsored by the World Bank), Harmonization of GIS Health Service Mappings
+                        </p>
+
+                        <p class="subitems">
+                            <strong>Databank Project</strong><br/>
+                            Part of a five-person team responsible for designing a software system for computerizing the file management system and SAAS,
+                            utilized in the Agency, its Annex also in the six geo-political zones with external vendors SINET Technologies and Microsoft.
+                            <ul>
+                                <li>Responsible for on-site requirement analysis</li>
+                                <li>Actively involved in some aspects of system design</li>
+                                <li>Work closely with external vendors in delivering objectives</li>
+                                <li>Work and have stakeholder meetings with the Executive Director and Top management staffs Prepare documentation and
+                                    present progress reports to management</li>
+                                <li>Maintain contact with partners/client organisations (e.g. Bill and Melinda Gates foundation, CDC,CHAI,UNICEF and WHO)</li>
+                            </ul>
+
+                        </p>
+
+                        <p class="subitems">
+                            <strong>Madex Project</strong><br/>
+                            Part of a seven-person team responsible for the design and deployment of a standalone application; Mobile-to-Application Data Exchange (Madex).
+                            Madex is an electronic reporting tool for data collection, developed under the midwives
+                            scheme mainly used for timely retrieval, storage, processing and interpretation of data.
+                            <ul>
+                                <li>Organised meetings with stakeholders(management, staffs, Partners ) to determine requirements Working with
+                                    stakeholders to define the scope of a project</li>
+                                <li>Clarified system specifications by understanding their work practices and the nature of their business by liaising with
+                                    staff at various levels in the organisation.</li>
+                                <li>Presented and developed solutions in written or oral reports Helped with deployment and change-management activities
+                                    Achieved to increase the efficiency of reporting rate by 78%</li>
+
+                            </ul>
+
+                        </p>
+                    </li><br/>
+                    <li>
+                        <strong>DISKOVERY NIG. LTD LAGOS (Land Information System Project Delta State) </strong><br/>
+                        <em>Software Implementation Consultant (Dec 2010 – Feb 2013)</em>
+                        <p class="subitems">
+                            <strong>Madex Project</strong><br/>
+                            Land Information Systems (LIS) or land records system is a database describing the physical and legal characteristics of land areas.
+                            The project was initiated by Delta State Government and I was stationed in the Asaba office within the premises of the Ministry of Lands.
+                            This experience involved working in a team.
+                            <ul>
+                                <li>Planned meetings and liaised with stakeholders t of the LIS project</li>
+                                <li>Involved in drawing up specific proposals for modification/replacement systems in the Ministry</li>
+                                <li> Managed a list of required trainings and workshops for awareness and deployment of system</li>
+                                <li>Worked closely with the project manager to Prepare, process and chase to closing all Land Information Systems challenges in Delta state</li>
+                                <li>Organized meetings with Top Management of the Ministry chaired by the Honourable Commissioner</li>
+                                <li>Involved in impact analysis documentation including both program -level and user-level documentation </li>
+                                <li>Worked with Esri-GIS for GIS Mapping of the land (both fallow and built up ones)</li>
+
+                            </ul>
+
+                        </p>
+
+                    </li><br/>
+                    <li>
+                        <strong>DELTA STATE GOVERNMENT (Project ‘e’ Delta)</strong><br>
+                        <em>Applications programmer (Jun 2010-Jun 2011)</em><br/>
+                        <p>
+                            <ul>
+                                <li>Writing software and operating manuals</li>
+                                <li>Making appropriate modifications</li>
+                                <li>Performed unit testing of software systems Produced feasibility reports</li>
+                            </ul>
+                        </p>
+                    </li><br/>
+                    <li>
+                        <strong>DOVE PENN LTD, London</strong><br/>
+                        <em>Junior web Developer (Aug 2007-Aug 2008)</em><br/>
+                        <p>
+                            <ul>
+                                <li>Involved with technologies sent to client such as HTML, JavaScript, and CSS</li>
+                                <li>Worked closely with a web designer, web producer, project manager, software architect, and database administrator</li>
+                                <li>Involved with interaction between server -side frameworks, the web server, and a database system</li>
+
+                            </ul>
+                        </p>
+                    </li>
+
+
+
+                </ol>
+            </section>
+
+            <section id="education">
+                <h2>Education</h2>
+                <hr>
+                <ul>
+                    <li>
+                        <p>
+                            Robert Gordon University, Aberdeen<br/>
+                            <em>(MSc) IT for the Oil and Gas Industry  - In Progress</em>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            University of Westminster, London<br/>
+                            <em>(PGCert) Software Engineering - 2005 - 2008</em>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            University of Benin, Nigeria<br/>
+                            <em>BSc (Hons) Computer Science - 1999 - 2004</em>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Our Lady of Apostles Sec School,Nigeria - 1992 - 1998
+
+                        </p>
+                    </li>
+                </ul>
+            </section>
+
+            <section id="affiliations">
+                <h2>Affiliations</h2>
+                <hr>
+                <ul>
+                    <li>Member Information Systems Audit and Control Association (ISACA) - Nov. 2014 - till date</li>
+                    <li>Professional Member British Computer Society (BCS) - 2006 till date</li>
+                </ul>
+            </section>
+
+
+        </main>
+
+        <footer>
+
+        </footer>
+    </body>
+
+</html>
+
     <ul> 
     <li>Programming Languages: c++ </li>
     <li>Networking</li>
