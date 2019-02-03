@@ -20,11 +20,17 @@ em {
 
 </style>
 
-<header>
-    <h1><b>NWAKUSO WINIFRED ONWUKA - CV<b></h>
-   
-   
-</header>
+</head>
+
+<body>
+
+   <header id="cv_name">
+            <h1>
+                Nwakuso Winifred Onwuka<br/>
+                <span class="header_sub_title">IT Project Manager</span>
+
+            </h1>
+   </header>
 
 <main>
     <section>
